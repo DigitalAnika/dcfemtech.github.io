@@ -5,9 +5,9 @@ date: 2018-05-28
 eventDate: 2018-07-28
 categories: events
 datePretty: July 28 - 29, 2018
-location: Booz Allen Innovation Center
-time: 9am
-registerLink: 
+location: Booz Allen Innovation Center, 901 15th St. NW
+time: 9am - 4pm, both days
+registerLink: https://www.eventbrite.com/e/hack-for-good-2018-tickets-47306595300
 description: Hack for Good is a 2-day event bringing folks together to work on projects that support our community. Progress on projects will be presented in a science fair format at the conclusion of the event. This is a different kind of hackathon. No competition, no award money; just bringing people together to learn, make connections, and build something awesome!
 contact:
 press:
